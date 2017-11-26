@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle project-icons",
+        "command": "project-icons:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "project-icons",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "project-icons:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "project-icons",
+  "main": "./lib/project-icons",
+  "version": "0.0.0",
+  "description": "Specify an alternate title for your Project tabs.",
+  "keywords": [
+  ],
+  "activationCommands": {},
+  "repository": "https://github.com/atom/project-icons",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "atom-select-list": "latest"
+  }
+}
