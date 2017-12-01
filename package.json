@@ -1,10 +1,12 @@
 {
   "name": "project-icons",
   "main": "./lib/project-icons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Atom package for improved visual identification of projects.",
   "keywords": [
-    "project-icons", "project-emoji", "icons"
+    "project-icons",
+    "project-emoji",
+    "icons"
   ],
   "activationCommands": {},
   "repository": "https://github.com/aricwalker/project-icons",
