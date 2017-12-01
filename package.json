@@ -2,14 +2,15 @@
   "name": "project-icons",
   "main": "./lib/project-icons",
   "version": "0.0.0",
-  "description": "Specify an alternate title for your Project tabs.",
+  "description": "Atom package for improved visual identification of projects.",
   "keywords": [
+    ""
   ],
   "activationCommands": {},
-  "repository": "https://github.com/atom/project-icons",
+  "repository": "https://github.com/aricwalker/project-icons",
   "license": "MIT",
   "engines": {
-    "atom": "*"
+    "atom": ">= 1.6.0 < 2.0.0"
   },
   "dependencies": {
     "atom-select-list": "latest"

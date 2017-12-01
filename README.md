@@ -1,6 +1,6 @@
 # Project Icons
 
-Atom package for improved visual identification of different projects.  This package allows you to add emoji or custom text to the project tab.  Particularly helpful for multiple projects open in the same window.
+Atom package for improved visual identification of projects.  This package allows you to add emoji or custom text to the project tab.  Particularly helpful for multiple projects open in the same window.
 
 ![Preview](preview.png)
 
